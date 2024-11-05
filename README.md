@@ -6,3 +6,6 @@
 
 # 3. 고객 세그먼트별 누적 매출 그래프
 ![누적 막대 그래프](https://github.com/CharlieNote/Tableau/blob/main/%EB%88%84%EC%A0%81%EB%A7%89%EB%8C%80%EC%B0%A8%ED%8A%B8.png)
+
+# 4. 분기별 주문일자 합계 매출 그래프
+![영역차트 그래프](https://github.com/CharlieNote/Tableau/blob/main/%EC%98%81%EC%97%AD%EB%9D%BC%EC%9D%B8%EC%B0%A8%ED%8A%B8.png)
