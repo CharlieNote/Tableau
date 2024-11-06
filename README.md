@@ -15,3 +15,6 @@
 
 # 6. 지역별 매출 비교 그래프
 ![라운드형 막대 그래프](https://github.com/CharlieNote/Tableau/blob/main/%EB%9D%BC%EC%9A%B4%EB%93%9C%ED%98%95%EB%A7%89%EB%8C%80%EC%B0%A8%ED%8A%B8.png)
+
+# 7. 연 월별 매출 비교 그래프
+![평균기준 라인 그래프](https://github.com/CharlieNote/Tableau/blob/main/%ED%8F%89%EA%B7%A0%EB%9D%BC%EC%9D%B8%EC%B0%A8%ED%8A%B8%EB%A7%8C%EB%93%A4%EA%B8%B0.png)
