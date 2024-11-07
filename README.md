@@ -24,3 +24,6 @@
 ![계층 그래프](https://github.com/CharlieNote/Tableau/blob/main/%EA%B3%84%EC%B8%B5%EA%B7%B8%EB%9E%98%ED%94%841.png)
 ![계층 그래프2](https://github.com/CharlieNote/Tableau/blob/main/%EA%B3%84%EC%B8%B5%EA%B7%B8%EB%9E%98%ED%94%842.PNG)
 ![계층 그래프3](https://github.com/CharlieNote/Tableau/blob/main/%EC%A7%80%EC%97%AD%EA%B3%84%EC%B8%B5%20%EA%B7%B8%EB%9E%98%ED%94%84.PNG.jpg)
+
+# 9. 지리적 역활 그래프
+![지리적 그래프](https://github.com/CharlieNote/Tableau/blob/main/%EC%A7%80%EB%A6%AC%EC%A0%81%20%EC%97%AD%ED%99%9C%20%EC%8B%9C%EA%B0%81%ED%99%94.jpg)
