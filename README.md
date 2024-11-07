@@ -20,6 +20,7 @@
 ![평균기준 라인 그래프](https://github.com/CharlieNote/Tableau/blob/main/%ED%8F%89%EA%B7%A0%EB%9D%BC%EC%9D%B8%EC%B0%A8%ED%8A%B8%EB%A7%8C%EB%93%A4%EA%B8%B0.png)
 ![](https://github.com/CharlieNote/Tableau/blob/main/%ED%8F%89%EA%B7%A0%EB%9D%BC%EC%9D%B8%EC%B0%A8%ED%8A%B82.png)
 
-# 8. 제품 분류별 매출 그래프
+# 8. 제품별, 지역별 계층그래프
 ![계층 그래프](https://github.com/CharlieNote/Tableau/blob/main/%EA%B3%84%EC%B8%B5%EA%B7%B8%EB%9E%98%ED%94%841.png)
 ![계층 그래프2](https://github.com/CharlieNote/Tableau/blob/main/%EA%B3%84%EC%B8%B5%EA%B7%B8%EB%9E%98%ED%94%842.PNG)
+![계층 그래프3](https://github.com/CharlieNote/Tableau/blob/main/%EC%A7%80%EC%97%AD%EA%B3%84%EC%B8%B5%20%EA%B7%B8%EB%9E%98%ED%94%84.PNG.jpg)
