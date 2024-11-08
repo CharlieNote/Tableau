@@ -30,3 +30,6 @@
 
 # 10. 지역 권역 시각화
 ![채워진맵 지도](https://github.com/CharlieNote/Tableau/blob/main/%EC%B1%84%EC%9B%90%EC%A7%84%EB%A7%B5%20%EB%A7%8C%EB%93%A4%EA%B8%B0.png)
+
+# 11. 비눗방울 기호 지도맵
+![기호맵 지도](https://github.com/CharlieNote/Tableau/blob/main/%EA%B8%B0%ED%98%B8%EB%A7%B51.png)
