@@ -27,3 +27,6 @@
 
 # 9. 지리적 역활 그래프
 ![지리적 그래프](https://github.com/CharlieNote/Tableau/blob/main/%EC%A7%80%EB%A6%AC%EC%A0%81%20%EC%97%AD%ED%99%9C%20%EC%8B%9C%EA%B0%81%ED%99%94.jpg)
+
+# 10. 지역 권역 시각화
+![채워진맵 지도](https://github.com/CharlieNote/Tableau/blob/main/%EC%B1%84%EC%9B%90%EC%A7%84%EB%A7%B5%20%EB%A7%8C%EB%93%A4%EA%B8%B0.png)
