@@ -36,3 +36,6 @@
 
 # 12. 막대 라인 그래프
 ![막대 라인 그래프](https://github.com/CharlieNote/Tableau/blob/main/%EB%A7%89%EB%8C%80%EB%9D%BC%EC%9D%B8%EA%B7%B8%EB%9E%98%ED%94%84.png)
+
+# 13. 지도 파이 그래프
+![지도 파이맵](https://github.com/CharlieNote/Tableau/blob/main/%EC%A7%80%EB%8F%84%ED%8C%8C%EC%9D%B4%EC%B0%A8%ED%8A%B8.png)
