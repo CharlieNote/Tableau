@@ -33,3 +33,6 @@
 
 # 11. 비눗방울 기호 지도맵
 ![기호맵 지도](https://github.com/CharlieNote/Tableau/blob/main/%EA%B8%B0%ED%98%B8%EB%A7%B51.png)
+
+# 12. 막대 라인 그래프
+![막대 라인 그래프](https://github.com/CharlieNote/Tableau/blob/main/%EB%A7%89%EB%8C%80%EB%9D%BC%EC%9D%B8%EA%B7%B8%EB%9E%98%ED%94%84.png)
