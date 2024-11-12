@@ -39,3 +39,6 @@
 
 # 13. 지도 파이 그래프
 ![지도 파이맵](https://github.com/CharlieNote/Tableau/blob/main/%EC%A7%80%EB%8F%84%ED%8C%8C%EC%9D%B4%EC%B0%A8%ED%8A%B8.png)
+
+# 14. 수도권 영역 그룹 그래프
+![그룹 차트](https://github.com/CharlieNote/Tableau/blob/main/%EA%B7%B8%EB%A3%B9%EA%B7%B8%EB%9E%98%ED%94%84.png)
