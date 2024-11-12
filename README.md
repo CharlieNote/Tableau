@@ -42,3 +42,6 @@
 
 # 14. 수도권 영역 그룹 그래프
 ![그룹 차트](https://github.com/CharlieNote/Tableau/blob/main/%EA%B7%B8%EB%A3%B9%EA%B7%B8%EB%9E%98%ED%94%84.png)
+
+# 15. 집합 그룹 지표
+![집합](https://github.com/CharlieNote/Tableau/blob/main/%EC%A7%91%ED%95%A9.png)
