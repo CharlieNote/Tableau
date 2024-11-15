@@ -57,3 +57,6 @@
 
 # 19. 매출 차이 비교 그래프
 ![차이그래프](https://github.com/CharlieNote/Tableau/blob/main/%EB%A7%A4%EC%B6%9C%EC%B0%A8%EC%9D%B4%EA%B7%B8%EB%9E%98%ED%94%84.png)
+
+# 20. 이중축 그래프
+![이중축](https://github.com/CharlieNote/Tableau/blob/main/%EC%9D%B4%EC%A4%91%EC%B6%95%20%EA%B7%B8%EB%9E%98%ED%94%84.png)
