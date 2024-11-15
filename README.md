@@ -69,3 +69,6 @@
 
 # 23. 라인 하이라이트 그래프
 ![라인하이라이트](https://github.com/CharlieNote/Tableau/blob/main/%EB%9D%BC%EC%9D%B8%ED%95%98%EC%9D%B4%EB%9D%BC%EC%9D%B4%ED%8A%B8.png)
+
+# 24. ChatGPT 출시 이후 일자리 감소 변화 그래프
+![가로그래프](https://github.com/CharlieNote/Tableau/blob/main/%EC%B1%97GPT%EC%9D%BC%EC%9E%90%EB%A6%AC%20%EA%B0%90%EC%86%8C%EB%B3%80%ED%99%94png.png)
