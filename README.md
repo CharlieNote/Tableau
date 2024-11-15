@@ -46,17 +46,26 @@
 # 15. 집합 그룹 지표
 ![집합](https://github.com/CharlieNote/Tableau/blob/main/%EC%A7%91%ED%95%A9.png)
 
-# 16. 할인율 산포도 그래프
+# 16. 파이 그래프
+![파이](https://github.com/CharlieNote/Tableau/blob/main/%ED%8C%8C%EC%9D%B4%EC%B0%A8%ED%8A%B8.png)
+
+# 17. 도넛 그래프
+![도넛](https://github.com/CharlieNote/Tableau/blob/main/%EB%8F%84%EB%84%9B%EC%B0%A8%ED%8A%B8.png)
+
+# 18. 할인율 산포도 그래프
 ![할인율](https://github.com/CharlieNote/Tableau/blob/main/%ED%95%A0%EC%9D%B8%EC%9C%A8.png)
 
-# 17. 트리맵 그래프
+# 19. 트리맵 그래프
 ![트리맵](https://github.com/CharlieNote/Tableau/blob/main/%ED%8A%B8%EB%A6%AC%EB%A7%B5.png)
 
-# 18. 대쉬보드 그래프
+# 20. 대쉬보드 그래프
 ![대쉬보드](https://github.com/CharlieNote/Tableau/blob/main/%EB%8C%80%EC%89%AC%EB%B3%B4%EB%93%9C.png)
 
-# 19. 매출 차이 비교 그래프
+# 21. 매출 차이 비교 그래프
 ![차이그래프](https://github.com/CharlieNote/Tableau/blob/main/%EB%A7%A4%EC%B6%9C%EC%B0%A8%EC%9D%B4%EA%B7%B8%EB%9E%98%ED%94%84.png)
 
-# 20. 이중축 그래프
+# 22. 이중축 그래프
 ![이중축](https://github.com/CharlieNote/Tableau/blob/main/%EC%9D%B4%EC%A4%91%EC%B6%95%20%EA%B7%B8%EB%9E%98%ED%94%84.png)
+
+# 23. 라인 하이라이트 그래프
+![라인하이라이트](https://github.com/CharlieNote/Tableau/blob/main/%EB%9D%BC%EC%9D%B8%ED%95%98%EC%9D%B4%EB%9D%BC%EC%9D%B4%ED%8A%B8.png)
